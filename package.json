@@ -1,0 +1,23 @@
+{
+  "name": "react-serve",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1",
+    "koa": "^2.13.1",
+    "koa-bodyparser": "^4.3.0",
+    "koa-jwt": "^4.0.0",
+    "koa-router": "^10.0.0",
+    "koa-static-cache": "^5.1.4",
+    "mongoose": "^5.12.0",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.2.5",
+    "nunjucks": "^3.2.3"
+  }
+}
